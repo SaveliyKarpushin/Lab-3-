@@ -67,8 +67,5 @@ namespace LAB_3_Saveliy
                 кол = value;
             }
         }
-
-
-
     }
 }
